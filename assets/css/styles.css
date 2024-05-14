@@ -19,6 +19,7 @@ body {
 }
 .contador {
     display: flex;
+    border: 1.5px solid white;
     flex-direction: column;
     align-self: center;
     align-items: center;
